@@ -4,6 +4,7 @@ author:
   - name: 
       given: "Tristan"
       family: "O'Malley"
+      literal: "Tristan O'Malley"
 date: "2023-03-15"
 categories: [news]
 ---
