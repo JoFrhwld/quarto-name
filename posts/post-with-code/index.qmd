@@ -3,6 +3,7 @@ title: "Post With Code"
 author: "Harlow Malloc"
 date: "2023-03-18"
 categories: [news, code, analysis]
+image: palmerpenguins.png
 ---
 
 This is a post with executable code.
